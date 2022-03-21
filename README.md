@@ -7,3 +7,5 @@ How it will use?
 3. You can also choose visibility for your repo and add a readme file.
 4. Click "Create repository from template" then this template will be integrated with your repository. 
 You can now proceed to your created repository and start your Girpod Workspace.
+5. after building the image the larvel folder will create, go inside the folder by 'cd laravel'
+6. Then type 'php artisan serve' to check if the larvavel framework successfully inatlled to your gitpod
